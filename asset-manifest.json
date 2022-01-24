@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Linear-Binary-Search-Visualizer/static/css/main.227d2434.css",
+    "main.js": "/Linear-Binary-Search-Visualizer/static/js/main.e27c0656.js",
+    "index.html": "/Linear-Binary-Search-Visualizer/index.html",
+    "static/media/arrow.svg": "/Linear-Binary-Search-Visualizer/static/media/arrow.fdfcde4125dae86210b00777d52b7ae7.svg",
+    "main.227d2434.css.map": "/Linear-Binary-Search-Visualizer/static/css/main.227d2434.css.map",
+    "main.e27c0656.js.map": "/Linear-Binary-Search-Visualizer/static/js/main.e27c0656.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.227d2434.css",
+    "static/js/main.e27c0656.js"
+  ]
+}
